@@ -3,15 +3,16 @@ Just the essentials to create a HTML5 project
 
 ### Contents
 
-- Assets
- - js
-   - lib
-   - vendor
-   - main.js
- - css
-   - normalize.css
-   - style.css
- - img
+- assets
+  - js
+    - lib
+    - vendor
+    - main.js
+  - css
+    - normalize.css
+    - style.css
+  - img
+
 - index.html
 - 404.html
 - 500.html
